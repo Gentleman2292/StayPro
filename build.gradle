@@ -63,7 +63,7 @@ dependencies {
     minecraft 'net.minecraftforge:forge:1.12.2-14.23.5.2860'
     addLib "org.jetbrains.kotlin:kotlin-stdlib:1.6.0"
     addLib "org.jetbrains.kotlin:kotlin-stdlib-common:$kotlin_version"
-    addlib "org.openjfx":javafx-graphics:12.0.1"
+    addlib "org.openjfx":javafx-graphics:12.0.1"}
     addLib ("com.viaversion:viaversion:4.0.2-SNAPSHOT"){
         exclude module: 'mcmod-info'
     }
